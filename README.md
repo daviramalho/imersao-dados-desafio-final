@@ -3,8 +3,17 @@
 ### Desafio Final Imersão Dados
 ------
 ### Checklist Tarefas:
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Entender a base de dados;
+    - [ ] Entendimento do negócio;
+    - [ ] Análise dos dados;
+    - [ ] Levantamento de hipóteses.
+- [ ] Verificar estudos que utilizaram a mesma base de dados:
+    - [ ] Kaggle;
+    - [ ] Publicações científicas.
+- [ ] Organizar estrutura do projeto
+    - [ ] Objetivo;
+    - [ ] Definição do problema;
+    - [ ] Solução do problema.
 <!--
 **Olá Cientistas!**
 
