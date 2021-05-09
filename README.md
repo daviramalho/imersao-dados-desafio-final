@@ -1,9 +1,9 @@
 
-<center> <h1> PROJETO FINAL - DATA SCIENCE </h1> </center>
+<h1 align = "center"> PROJETO FINAL - DATA SCIENCE </h1>
 
-<center> <img src = "imagens/logo-mersao.1616501197.svg" alt = "Logo_Imersao" width = "200" /> </center>
+<img src = "imagens/logo-mersao.1616501197.svg" alt = "Logo_Imersao" width = "200" /> 
 
-<center> <h3>  Desafio Final Imersão Dados </h3> </center>
+<h3 align = "center">  Desafio Final Imersão Dados </h3>
 ------
 ### Checklist Tarefas:
 - [ ] Entender a base de dados;
