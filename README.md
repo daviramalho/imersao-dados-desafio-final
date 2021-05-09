@@ -1,7 +1,11 @@
 
 # PROJETO FINAL - DATA SCIENCE
 ### Desafio Final Imersão Dados
-
+------
+### Checklist Tarefas:
+- [ ] Task 1
+- [ ] Task 2
+<!--
 **Olá Cientistas!**
 
 Neste repositório você vai encontrar todas as informações necessárias para o desenvolvimento do projeto final da Imersão Dados.
@@ -167,3 +171,6 @@ Você deve submeter o link do seu repositório [neste Google Forms](https://docs
 
 
 **Mergulhe fundo, é apenas o primeiro passo!**
+-->
+
+by Davi Ramalho
