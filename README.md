@@ -12,7 +12,7 @@
 </div>
 
 <div>
-<img src = "imagens/inbox_4688294_7b66ae0c294d9ca67272209d4756e0e9_logo_largetext_preview-4.png" alt =  "Logo_LISH" width = "120" />
+<img src = "imagens/inbox_4688294_7b66ae0c294d9ca67272209d4756e0e9_logo_largetext_preview-4.png" alt =  "Logo_LISH" width = "60" />
 </div>
 
 </div>
