@@ -7,8 +7,13 @@
 <img src = "imagens/logo-mersao.1616501197.svg" alt = "Logo_Imersao" width = "200" />
 </div>
 
+<div>
 <img src = "imagens/alura_logo.jpeg" alt =  "Logo_Alura" width = "50" />
+</div>
+
+<div>
 <img src = "imagens/inbox_4688294_7b66ae0c294d9ca67272209d4756e0e9_logo_largetext_preview-4.png" alt =  "Logo_LISH" width = "120" />
+</div>
 
 </div>
 
