@@ -1,6 +1,9 @@
 
 # PROJETO FINAL - DATA SCIENCE
-### Desafio Final Imersão Dados
+
+<img src = "imagens/logo-mersao.1616501197.svg" />
+
+<p align = "center"> Desafio Final Imersão Dados </p>
 ------
 ### Checklist Tarefas:
 - [ ] Entender a base de dados;
