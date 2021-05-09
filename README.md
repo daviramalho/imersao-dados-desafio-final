@@ -3,7 +3,7 @@
 
 <img src = "imagens/logo-mersao.1616501197.svg" />
 
-<p align = "center"> Desafio Final Imersão Dados </p>
+### Desafio Final Imersão Dados
 ------
 ### Checklist Tarefas:
 - [ ] Entender a base de dados;
