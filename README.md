@@ -1,5 +1,5 @@
 
-# PROJETO FINAL - DATA SCIENCE
+<center> ### PROJETO FINAL - DATA SCIENCE </center>
 
 <img src = "imagens/logo-mersao.1616501197.svg" alt = "Logo_Imersao" width = "200" />
 
