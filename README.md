@@ -1,11 +1,11 @@
 
-<h1 align = "center"> PROJETO FINAL - DATA SCIENCE </h1>
+<h1 align = "center"> DESAFIO FINAL - DATA SCIENCE </h1>
 
 <div align = "center">
 <img src = "imagens/logo-mersao.1616501197.svg" alt = "Logo_Imersao" width = "200" />
 </div>
 
-<h3 align = "center">  Desafio Final Imersão Dados </h3>
+<!-- <h3 align = "center">  Desafio Final Imersão Dados </h3> -->
 
 ------
 ### Checklist Tarefas:
