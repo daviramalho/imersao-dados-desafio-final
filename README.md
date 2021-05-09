@@ -189,4 +189,9 @@ Você deve submeter o link do seu repositório [neste Google Forms](https://docs
 **Mergulhe fundo, é apenas o primeiro passo!**
 -->
 
+<div align = "center">
+<div>
+<img src = "imagens/lalura_logo.jpeg" alt = "Logo_Alura" width = "100" /></div>
+</div>
+
 by Davi Ramalho
