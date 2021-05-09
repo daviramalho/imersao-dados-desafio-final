@@ -4,6 +4,7 @@
 <img src = "imagens/logo-mersao.1616501197.svg" alt = "Logo_Imersao" width = "200" /> 
 
 <h3 align = "center">  Desafio Final Imersão Dados </h3>
+
 ------
 ### Checklist Tarefas:
 - [ ] Entender a base de dados;
